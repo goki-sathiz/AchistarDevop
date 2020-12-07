@@ -1,2 +1,0 @@
-# AchistarDevop
-# devopIntegration
